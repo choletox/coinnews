@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+
+body, html {
+    height: 100%;
+}
+
+.vh-100 {
+    height: 100vh;
+}
+
+main {
+    background-color: #f8f9fa;
+}
+
+.media img {
+    max-width: 64px;
+    max-height: 64px;
+    object-fit: cover;
+}
